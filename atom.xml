@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Nnuij.github.io/</id>
     <title>今晚月色真美</title>
-    <updated>2019-05-31T15:32:40.093Z</updated>
+    <updated>2019-05-31T15:46:56.211Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Nnuij.github.io/"/>
     <link rel="self" href="https://Nnuij.github.io//atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://Nnuij.github.io//images/avatar.png</logo>
     <icon>https://Nnuij.github.io//favicon.ico</icon>
     <rights>All rights reserved 2019, 今晚月色真美</rights>
+    <entry>
+        <title type="html"><![CDATA[Good Luck]]></title>
+        <id>https://Nnuij.github.io//post/good-luck</id>
+        <link href="https://Nnuij.github.io//post/good-luck">
+        </link>
+        <updated>2019-05-31T15:43:44.000Z</updated>
+        <content type="html"><![CDATA[<p>我告诉我喜欢你，并不是一定要和你在一起，只是希望今后的你，在遭遇人生低谷的时候，不要灰心，至少曾经有人被你的魅力所吸引，曾经是，以后也是。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://Nnuij.github.io//post/hello-gridea</id>
